@@ -1,0 +1,33 @@
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\bin\Debug\net8.0\appsettings.json
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\bin\Debug\net8.0\futebol api.exe
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\bin\Debug\net8.0\futebol api.deps.json
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\bin\Debug\net8.0\futebol api.runtimeconfig.json
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\bin\Debug\net8.0\futebol api.dll
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\bin\Debug\net8.0\futebol api.pdb
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\futebol api.csproj.AssemblyReference.cache
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\futebol api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\futebol api.AssemblyInfoInputs.cache
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\futebol api.AssemblyInfo.cs
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\futebol api.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\futebol api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\futebol api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\futebol api.sourcelink.json
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\staticwebassets\msbuild.futebol api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\staticwebassets\msbuild.build.futebol api.props
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.futebol api.props
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.futebol api.props
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\scopedcss\bundle\futebol api.styles.css
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\futebol api.csproj.CopyComplete
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\futebol api.dll
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\refint\futebol api.dll
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\futebol api.pdb
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\futebol api.genruntimeconfig.cache
+C:\Users\Marco\Source\Repos\ProvaC-1\futebol api\futebol api\obj\Debug\net8.0\ref\futebol api.dll
